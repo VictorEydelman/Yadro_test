@@ -14,6 +14,8 @@
 ![image](https://github.com/user-attachments/assets/b92c2c99-5eb2-4134-91a1-af0203981d38)
 Как мы видим список контактов совпадает.
 
+### Код
+
 Для отображения используется код на jetpack compose: [ContactScreen.kt](https://github.com/VictorEydelman/Yadro_test/blob/master/Yadro_test/app/src/main/java/mad/project/yadro_test/ContactScreen.kt)
 
 Для получения списка контактов: [GetContact.kt](https://github.com/VictorEydelman/Yadro_test/blob/master/Yadro_test/app/src/main/java/mad/project/yadro_test/GetContact.kt)
@@ -38,6 +40,8 @@
 Теперь давайте запустим удаление дубликатов, когда таковых нету
 ![image](https://github.com/user-attachments/assets/42758258-6b9b-4f2a-9e38-568168d7d501)
 Как мы видим, вывелась информация о отсутствие дубликатов
+
+### Код
 
 Для работы по AIDL есть интерфейс, который находится на клиенте и сервере:[IAidlInterface.aidl](https://github.com/VictorEydelman/Yadro_test/blob/master/AidlService/app/src/main/aidl/mad/project/aidlservice/IAidlInterface.aidl)
 
